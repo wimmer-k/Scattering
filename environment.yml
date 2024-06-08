@@ -1,0 +1,6 @@
+name: Scattering
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - ipywidgets
